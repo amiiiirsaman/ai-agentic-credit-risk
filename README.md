@@ -216,4 +216,4 @@ Before pushing publicly, review repository contents and rotate any accidentally 
 
 ## License
 
-No license file is currently included. Add one if you plan to distribute or open source this project.
+This project is licensed under the MIT License. See the `LICENSE` file for details.
